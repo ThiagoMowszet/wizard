@@ -2,11 +2,10 @@ package main
 
 import (
 	"fmt"
+	"log"
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-
-	"log"
 )
 
 type Styles struct {
